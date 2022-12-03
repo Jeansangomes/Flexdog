@@ -160,5 +160,19 @@ img{
 
 .produtos-item h2 {
   font-size: 3em;
-  color: #a4a4a4
+  color: #a4a4a4;
+  background: #f7f7f7f7;
+  padding: 60px 20px;
+}
+
+.marron {
+  border-top: 8px solid #978674;
+}
+
+.azul {
+  border-top: 8px solid #8EB4C7;
+}
+
+.verde {
+  border-top: 8px solid #69763E;
 }
