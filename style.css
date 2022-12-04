@@ -152,10 +152,12 @@ img{
 .produtos-container {
   display: flex;
   flex-wrap: wrap;
+  align-items: flex-end;
 }
 
 .produtos-item {
   flex: 1 1 175px;
+  margin: 10px;
 }
 
 .produtos-item h2 {
@@ -175,4 +177,6 @@ img{
 
 .verde {
   border-top: 8px solid #69763E;
+  padding: 26px 0;
 }
+
