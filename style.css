@@ -257,6 +257,11 @@ margin: 10px;
   text-align: center;
 }
 
+.comprar-bt:hover{
+ color: #f7f7f7;
+ background: #222222;
+}
+
 @media (max-width: 800px) {
   .preco {
     padding-left: 10px;
@@ -398,3 +403,4 @@ margin: 10px;
 	font-size: 2.25em;
 	color: #122ab2;
 }
+
