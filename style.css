@@ -422,3 +422,11 @@ margin: 10px;
 	color: #122ab2;
 }
 
+@media(max-width:700px){
+  .footer {
+    height: 170px;
+  }
+  .footer p {
+    font-size: 1.75em;
+  }
+}
